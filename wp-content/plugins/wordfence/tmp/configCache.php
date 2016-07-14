@@ -1,0 +1,4 @@
+<?php
+/* Wordfence temporary file security header */
+echo "Nothing to see here!\n"; exit(0);
+?>a:23:{s:6:"apiKey";s:128:"68471924207a7364a5a170c614ee4db59be307d21baaa6a5fd640bfacf9d3ee14f3b671dda8e95cbaa34baf5fa77f313924aa41694a814f5e8650d1e4a85428c";s:9:"howGetIPs";s:0:"";s:11:"whitelisted";s:0:"";s:9:"cacheType";s:0:"";s:25:"ajaxWatcherDisabled_front";s:1:"0";s:25:"ajaxWatcherDisabled_admin";s:1:"0";s:20:"loginSec_lockoutMins";s:1:"5";s:19:"other_hideWPVersion";s:1:"1";s:26:"loginSec_disableAuthorScan";s:1:"1";s:33:"scansEnabled_suspiciousAdminUsers";s:1:"1";s:18:"liveTrafficEnabled";s:1:"1";s:6:"isPaid";s:0:"";s:15:"firewallEnabled";s:1:"1";s:14:"disableCookies";s:1:"0";s:17:"actUpdateInterval";s:0:"";s:7:"debugOn";s:1:"0";s:10:"tourClosed";s:1:"1";s:13:"welcomeClosed";s:1:"1";s:24:"dismissAutoPrependNotice";s:0:"";s:19:"signatureUpdateTime";s:10:"1465580043";s:14:"wf_scanRunning";s:0:"";s:21:"scheduledScansEnabled";s:1:"1";s:17:"lastScanCompleted";s:2:"ok";}

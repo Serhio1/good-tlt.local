@@ -1,0 +1,5 @@
+Options -Indexes
+<Files "upgrade.php">
+order allow,deny
+deny from all
+</Files>
